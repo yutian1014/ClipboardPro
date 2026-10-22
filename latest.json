@@ -1,15 +1,14 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.1",
   "urls": [
-    "https://github.com/yutian1014/ClipboardPro/releases/download/v0.4.0/ClipboardPro.exe"
+    "https://github.com/yutian1014/ClipboardPro/releases/download/v0.5.1/ClipboardPro.exe"
   ],
-  "sha256": "3ecdc2edbdbbb5a9acf173bbca01e3d975471cdc058f02a745765cce6bbcac5d",
-  "size": 67448221,
+  "sha256": "40B90C6D779B4912AEF03A9D82F1FF8C0980E6DF6234228AD3F6A0A4569804AC",
+  "size": 67448945,
   "notes": [
-    "首个支持云更新的版本",
-    "自动检查更新，弹窗提示更新内容",
-    "一键下载并自动安装，无需手动替换",
-    "版本号与更新日志在弹窗中清晰展示"
+    "修复近期改名遗留的更新地址问题，恢复自动更新",
+    "本版起更新清单同时兼容老版本（0.4.0）的升级方式",
+    "图片命名去重、历史列表稳定性等既有修复保持不变"
   ],
   "mandatory": false
 }
