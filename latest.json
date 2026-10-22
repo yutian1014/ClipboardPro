@@ -3,8 +3,8 @@
   "urls": [
     "https://github.com/yutian1014/ClipboardPro/releases/download/v0.4.0/ClipboardPro.exe"
   ],
-  "sha256": "36c0b305cdb6cbdc1fb7d1db10d5a02dec29c777859074da254d8cbf5654d2ac",
-  "size": 67448213,
+  "sha256": "3ecdc2edbdbbb5a9acf173bbca01e3d975471cdc058f02a745765cce6bbcac5d",
+  "size": 67448221,
   "notes": [
     "首个支持云更新的版本",
     "自动检查更新，弹窗提示更新内容",
