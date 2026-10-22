@@ -1,14 +1,14 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "urls": [
-    "https://github.com/yutian1014/ClipboardPro/releases/download/v0.5.1/ClipboardPro.exe"
+    "https://github.com/yutian1014/ClipboardPro/releases/download/v0.5.2/ClipboardPro.exe"
   ],
-  "sha256": "40B90C6D779B4912AEF03A9D82F1FF8C0980E6DF6234228AD3F6A0A4569804AC",
-  "size": 67448945,
+  "sha256": "314B419A438C1CFD74E4226AB382C9C502C53F9BF4F17DE9A491F32F9C900A32",
+  "size": 67449227,
   "notes": [
-    "修复近期改名遗留的更新地址问题，恢复自动更新",
-    "本版起更新清单同时兼容老版本（0.4.0）的升级方式",
-    "图片命名去重、历史列表稳定性等既有修复保持不变"
+    "修复更新时“编码 936 不可用”导致下载完成却装不上的问题",
+    "修复设置页“检查更新”点了没反应的问题",
+    "新增脚本编码回退：全 ASCII 路径直接写 ASCII，最稳"
   ],
   "mandatory": false
 }
