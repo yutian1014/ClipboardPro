@@ -1,14 +1,18 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "urls": [
-    "https://github.com/yutian1014/ClipboardPro/releases/download/v0.5.2/ClipboardPro.exe"
+    "https://gitee.com/yutian1014/ClipboardPro/releases/download/v0.5.3/ClipboardPro.exe",
+    "https://github.com/yutian1014/ClipboardPro/releases/download/v0.5.3/ClipboardPro.exe"
   ],
-  "sha256": "314B419A438C1CFD74E4226AB382C9C502C53F9BF4F17DE9A491F32F9C900A32",
-  "size": 67449227,
+  "sha256": "211A28590EEF88A551597092A154FE8DB9BA90561407795FF2C590C1959ABB19",
+  "size": 67457081,
   "notes": [
-    "修复更新时“编码 936 不可用”导致下载完成却装不上的问题",
-    "修复设置页“检查更新”点了没反应的问题",
-    "新增脚本编码回退：全 ASCII 路径直接写 ASCII，最稳"
+    "新增多选：Ctrl/Shift 多选，或右键「多选」进入勾选模式",
+    "多条文本可批量复制（空行分段拼接）；图片只能单张复制",
+    "文本与图片都可多选删除 / 固定（不限类型）",
+    "新增右键菜单：复制 / 多选 / 全选图片 / 全选文本 / 清空选择 / 固定 / 重命名 / 删除",
+    "修复自动更新“编码 936”导致装不上、设置页检查更新无反应、失败锁死 24 小时",
+    "更新下载支持断点续传，并显示速度与剩余时间"
   ],
   "mandatory": false
 }
