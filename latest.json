@@ -1,18 +1,17 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.5",
   "urls": [
-    "https://gitee.com/yutian1014/ClipboardPro/releases/download/v0.5.3/ClipboardPro.exe",
-    "https://github.com/yutian1014/ClipboardPro/releases/download/v0.5.3/ClipboardPro.exe"
+    "https://gitee.com/yutian1014/ClipboardPro/releases/download/v0.5.5/ClipboardPro.exe",
+    "https://github.com/yutian1014/ClipboardPro/releases/download/v0.5.5/ClipboardPro.exe"
   ],
-  "sha256": "211A28590EEF88A551597092A154FE8DB9BA90561407795FF2C590C1959ABB19",
-  "size": 67457081,
+  "sha256": "99048140AB2F9F54E6D6B34963325C3B053A04EEB7191F6AF78C7410FC4E0480",
+  "size": 67466913,
+  "minVersion": null,
   "notes": [
-    "新增多选：Ctrl/Shift 多选，或右键「多选」进入勾选模式",
-    "多条文本可批量复制（空行分段拼接）；图片只能单张复制",
-    "文本与图片都可多选删除 / 固定（不限类型）",
-    "新增右键菜单：复制 / 多选 / 全选图片 / 全选文本 / 清空选择 / 固定 / 重命名 / 删除",
-    "修复自动更新“编码 936”导致装不上、设置页检查更新无反应、失败锁死 24 小时",
-    "更新下载支持断点续传，并显示速度与剩余时间"
+    "设置页改成分区入口，点进去是一页独立设置，左上角可返回",
+    "右键菜单重做，新增「全选」（Ctrl+A）",
+    "修复已知问题，别问是什么问题，我修复就对了",
+    "有问题或添加其他功能联系我，2133682402@qq.com"
   ],
   "mandatory": false
 }
